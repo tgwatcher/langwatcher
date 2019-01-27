@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Changes to: ios</title>
+</head>
+<body>diff --git a/ios.txt b/ios.txt
+index d8697d2..32e617c 100644
+--- a/ios.txt
++++ b/ios.txt
+@@ -2,6 +2,7 @@ ChannelInfo.DeleteGroup = "Удалить группу"
+ Conversation.RestrictedInline = "Администраторы группы запретили Вам публиковать контент с помощью ботов."
+ DialogList.EncryptionRejected = "Секретный чат отменен"
+ DialogList.Typing = "печатает"
++DialogList.You = "Вы"
+ Group.ErrorAddBlocked = "К сожалению, вы не можете добавлять этого пользователя в группы."
+ Group.Members.AddMemberBotErrorNotAllowed = "К сожалению, у Вас нет прав на добавление ботов в эту группу."
+ Notification.JoinedChannel = "%@ теперь подписан(а) на канал"
+</body>
+</html>
