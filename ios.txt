@@ -5,6 +5,7 @@ Conversation.CloudStorageInfo.Title = "Ваше облачное хранили�
 Conversation.ClousStorageInfo.Description1 = "• Пересылайте сюда сообщения"
 Conversation.ClousStorageInfo.Description2 = "• Храните фотографии и видео"
 Conversation.ClousStorageInfo.Description3 = "• Чат доступен с любого устройства"
+Conversation.ClousStorageInfo.Description4 = "• Находите нужное в поиске"
 Conversation.RestrictedInline = "Администраторы группы запретили Вам публиковать контент с помощью ботов."
 DialogList.EncryptionRejected = "Секретный чат отменен"
 DialogList.Typing = "печатает"
