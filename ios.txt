@@ -15,6 +15,7 @@ Group.ErrorAddBlocked = "К сожалению, вы не можете доба�
 Group.Members.AddMemberBotErrorNotAllowed = "К сожалению, у Вас нет прав на добавление ботов в эту группу."
 LastSeen.Lately = "был(а) недавно"
 Notification.JoinedChannel = "%@ теперь подписан(а) на канал"
+Notification.MessageLifetimeChangedOutgoing = "Вы включили удаление по таймеру через %1$@"
 Profile.CreateEncryptedChatError = "Произошла ошибка."
 State.Connecting = "Соединение..."
 State.WaitingForNetwork = "Ожидание сети"
