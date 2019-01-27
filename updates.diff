@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Changes to: ios</title>
+</head>
+<body>diff --git a/ios.txt b/ios.txt
+index 55ee678..d8697d2 100644
+--- a/ios.txt
++++ b/ios.txt
+@@ -4,6 +4,7 @@ DialogList.EncryptionRejected = "Секретный чат отменен"
+ DialogList.Typing = "печатает"
+ Group.ErrorAddBlocked = "К сожалению, вы не можете добавлять этого пользователя в группы."
+ Group.Members.AddMemberBotErrorNotAllowed = "К сожалению, у Вас нет прав на добавление ботов в эту группу."
++Notification.JoinedChannel = "%@ теперь подписан(а) на канал"
+ Profile.CreateEncryptedChatError = "Произошла ошибка."
+ State.Connecting = "Соединение..."
+ State.WaitingForNetwork = "Ожидание сети"
+</body>
+</html>
