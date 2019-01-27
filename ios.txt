@@ -1,5 +1,6 @@
 ChannelInfo.DeleteGroup = "Удалить группу"
 Common.Back = "Назад"
+Conversation.CloudStorage.ChatStatus = "Ваш личный чат"
 Conversation.RestrictedInline = "Администраторы группы запретили Вам публиковать контент с помощью ботов."
 DialogList.EncryptionRejected = "Секретный чат отменен"
 DialogList.Typing = "печатает"
